@@ -173,7 +173,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory out/100x100_protoboard_v0.6))
+      (outputdirectory out/100x100_busboard_v0.1))
   )
 
   (net 0 "")
